@@ -1,0 +1,18 @@
+{
+  "SU100": {
+    "status": "scheduled",
+    "scheduled_departure": "2026-04-13T10:30:00+00:00",
+    "estimated_departure": "2026-04-13T10:45:00+00:00",
+    "actual_departure": null,
+    "terminal": "B",
+    "gate": "14"
+  },
+  "AA100": {
+    "status": "active",
+    "scheduled_departure": "2026-04-13T09:00:00+00:00",
+    "estimated_departure": "2026-04-13T09:20:00+00:00",
+    "actual_departure": "2026-04-13T09:22:00+00:00",
+    "terminal": "3",
+    "gate": "C7"
+  }
+}

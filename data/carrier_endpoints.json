@@ -1,0 +1,16 @@
+{
+  "AA": {
+    "url": "http://localhost:8081/aa/status/{flight_number}",
+    "headers": {
+      "X-Demo-Token": "replace-me"
+    },
+    "fields": {
+      "status": "status",
+      "scheduled_departure": "departure.scheduled",
+      "estimated_departure": "departure.estimated",
+      "actual_departure": "departure.actual",
+      "terminal": "departure.terminal",
+      "gate": "departure.gate"
+    }
+  }
+}
